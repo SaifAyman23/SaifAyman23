@@ -1,5 +1,11 @@
 # 💫 About Me:
-👋 Hello! I'm a third-year Computer Science student at the Faculty of Computer and Artificial Intelligence, University of Sadat City.<br><br>💻 Fullstack Developer | Passionate about building dynamic web applications using Django, Django REST Framework (DRF), SQL databases, and Next.js. I enjoy working across the stack to bring ideas to life with efficient, scalable solutions.<br><br>📚 Learning Journey | Currently expanding my backend development skills and diving into machine learning to explore new possibilities in AI and data science.<br><br>🌱 Always eager to learn, build, and collaborate!
+👋 Hello! I'm a Computer Science student at the Faculty of Computer and Artificial Intelligence, University of Sadat City.
+
+💻 Fullstack Developer | Skilled in building dynamic web applications using Django, Django REST Framework (DRF), React.js, and Next.js. I enjoy working across the stack to deliver efficient and scalable solutions.
+
+📚 Learning Journey | Currently deepening my backend expertise and exploring machine learning to expand my knowledge in AI and data science.
+
+🌱 Always eager to learn, build, and collaborate!
 
 
 ## 🌐 Socials:
