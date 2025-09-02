@@ -1,5 +1,20 @@
-# 💫 About Me:
-👋 Hello! I'm a Computer Science student at the Faculty of Computer and Artificial Intelligence, University of Sadat City.<br><br>💻 Fullstack Developer | Skilled in building dynamic web applications using Django, Django REST Framework (DRF), React.js, and Next.js. I enjoy working across the stack to deliver efficient and scalable solutions.<br><br>📚 Learning Journey | Currently deepening my backend expertise and exploring machine learning to expand my knowledge in AI and data science.<br><br>🌱 Always eager to learn, build, and collaborate!
+# 💫 About Me
+
+👋 Hi, I’m Saif — a **senior Computer Science student** at the Faculty of Computer and Artificial Intelligence, University of Sadat City.
+
+💻 **Fullstack Developer** with hands-on experience delivering real-world projects using **React.js**, **Django**, and **Django REST Framework (DRF)**. I enjoy building end-to-end applications that are clean, scalable, and performant.
+
+⚡ **What I’ve built:**
+
+* **E-commerce platforms** with secure authentication, product management, and payment flows.
+* **Real-time communication apps** in React with **WebSocket** for chat, notifications, and live collaboration.
+* **Fitness and service applications** with personalized user dashboards and subscription features.
+
+📚 **Current focus:** Strengthening my backend expertise with Django & DRF while exploring **machine learning** and data science.
+
+🌱 **Mindset:** Always learning, building, and looking for opportunities to collaborate on meaningful projects.
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saif.ayman.1253/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-ayman-a2330b294/) 
