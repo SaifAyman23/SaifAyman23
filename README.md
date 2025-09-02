@@ -6,7 +6,7 @@
 
 ⚡ **What I’ve built:**
 
-* **E-commerce platforms** with secure authentication, product management, and payment flows.
+* **E-commerce platforms** with secure authentication, product management, and clean UI.
 * **Real-time communication apps** in React with **WebSocket** for chat, notifications, and live collaboration.
 * **Fitness and service applications** with personalized user dashboards and subscription features.
 
