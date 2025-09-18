@@ -1,20 +1,23 @@
 # 💫 About Me
 
-👋 Hi, I’m Saif — a **senior Computer Science student** at the Faculty of Computer and Artificial Intelligence, University of Sadat City.
+👋 Hi, I’m **Saif Eldin Ayman** — a Computer Science student with a strong foundation in **full-stack web development**.
 
-💻 **Fullstack Developer** with hands-on experience delivering real-world projects using **React.js**, **Django**, and **Django REST Framework (DRF)**. I enjoy building end-to-end applications that are clean, scalable, and performant.
+💻 **Backend-first, fullstack capable**:
 
-⚡ **What I’ve built:**
+* Experienced in **Python**, **Django**, and **Django REST Framework (DRF)** — building scalable APIs, authentication systems, and database-driven applications.
+* Solid frontend experience with **React.js**, **TypeScript**, **Zustand**, and **React Query** — crafting dynamic, responsive interfaces with interactive charts and smooth animations.
 
-* **E-commerce platforms** with secure authentication, product management, and clean UI.
-* **Real-time communication apps** in React with **WebSocket** for chat, notifications, and live collaboration.
-* **Fitness and service applications** with personalized user dashboards and subscription features.
+🚀 **What I’ve built:**
 
-📚 **Current focus:** Strengthening my backend expertise with Django & DRF while exploring **machine learning** and data science.
+* KPI dashboards with data-driven insights.
+* Real-time features using **WebSockets** for chat and notifications.
+* Seamless API integrations tested with Postman for clean frontend-backend workflows.
+* Scalable e-commerce and service platforms with subscriptions, authentication, and user dashboards.
 
-🌱 **Mindset:** Always learning, building, and looking for opportunities to collaborate on meaningful projects.
+🌍 **Currently interning** at a Saudi tech company, where I collaborate with professional teams to design and develop websites, optimize performance, and deliver engaging UI while bridging frontend and backend.
 
----
+🌱 **Mindset:** Always learning, building, and evolving with the latest web technologies.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/saif.ayman.1253/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-ayman-a2330b294/) 
