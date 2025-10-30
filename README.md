@@ -11,7 +11,7 @@
 
 * KPI dashboards with data-driven insights.
 * Real-time features using **WebSockets** for chat and notifications.
-* Seamless API integrations tested with Postman for clean frontend-backend workflows.
+* Seamless API functionalities and integrations tested with Postman for clean frontend-backend workflows.
 * Scalable e-commerce and service platforms with subscriptions, authentication, and user dashboards.
 
 🌍 **Currently interning** at a Saudi tech company, where I collaborate with professional teams to design and develop websites, optimize performance, and deliver engaging UI while bridging frontend and backend.
