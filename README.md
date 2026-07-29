@@ -70,6 +70,7 @@ Stack:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-black.svg?style=for-the-badge)
+![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
 
 
 ## Backend
@@ -77,7 +78,7 @@ Stack:
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 
 ## Database & Infrastructure
@@ -95,18 +96,5 @@ Stack:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="160"/>
-
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifayman23&show_icons=true&locale=en&layout=compact" alt="saifayman23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifayman23&show_icons=true&locale=en" alt="saifayman23" /></p>
