@@ -24,17 +24,7 @@ I specialize in **backend development with strong frontend capabilities**, build
 
 ### Careerly — AI Career Platform
 
-A career management platform built to simplify the job search process by combining **job discovery, application management, and AI-powered career assistance** into a unified experience.
-
-Built features including:
-- Aggregating job opportunities from multiple sources and enabling users to discover relevant roles faster.
-- Developing **AI-powered resume analysis and optimization workflows** to improve candidate-job matching.
-- Creating a complete application tracking system to help users manage and monitor their career progress.
-- Designing employer workflows for managing job postings and candidate applications.
-
-Impact:
-- Designed a scalable architecture supporting multiple user roles and complex career workflows.
-- Built backend services for automation, background processing, and personalized recommendations.
+A career management platform combining **job discovery, AI-powered resume optimization, application tracking, and employer workflows** into a unified career ecosystem.
 
 Stack:
 `Django REST Framework` `Celery` `Redis` `React` `TypeScript` `PostgreSQL` `Paymob`
@@ -42,17 +32,7 @@ Stack:
 
 ### Live Streaming Platform
 
-A production-grade streaming platform designed to help creators and organizations manage professional live broadcasts with **custom branding, real-time interaction, and multi-platform distribution**.
-
-Built features including:
-- Developing a complete streaming workflow with **multi-destination RTMP broadcasting**.
-- Building a studio experience for managing live sessions, overlays, banners, and branding assets.
-- Implementing **role-based permissions** to support different levels of platform access.
-- Adding real-time capabilities for live updates and interactive experiences.
-
-Impact:
-- Engineered scalable systems for handling complex streaming workflows.
-- Improved operational flexibility by centralizing stream management and customization tools.
+A production-grade streaming platform enabling **multi-destination RTMP streaming, studio management, real-time interactions, custom branding, and role-based access control**.
 
 Stack:
 `React` `TypeScript` `Django` `WebSockets` `Docker` `LiveKit`
@@ -60,35 +40,15 @@ Stack:
 
 ### Multi-Store Delivery Platform
 
-A delivery ecosystem built for the Egyptian market, focused on simplifying ordering from multiple stores while optimizing delivery operations.
-
-Built features including:
-- Designing a multi-store ordering system supporting flexible product categories and custom requests.
-- Implementing intelligent delivery fee calculation based on order complexity and business rules.
-- Building customer and delivery workflows for order tracking and status management.
-- Developing authentication and API integrations for secure user experiences.
-
-Impact:
-- Designed a scalable foundation for a marketplace-style delivery platform.
-- Optimized workflows around real-world delivery constraints and operational challenges.
+A marketplace-style delivery ecosystem built for the Egyptian market with **multi-store ordering, intelligent delivery pricing, order tracking, and customer/delivery workflows**.
 
 Stack:
-`Django REST Framework` `PostgreSQL` `React` `TypeScript` `OAuth 2.0` `Firebase messaging`
+`Django REST Framework` `PostgreSQL` `React` `TypeScript` `OAuth 2.0` `Firebase Messaging`
 
 
 ### Enterprise Business Systems
 
-Developed multiple internal platforms focused on improving business operations through **automation, analytics, and centralized workflows**.
-
-Built solutions including:
-- KPI dashboards providing real-time business insights through interactive data visualization.
-- ERP-style systems managing internal processes and operational workflows.
-- Executive dashboards designed for decision-making and performance tracking.
-- Custom business tools integrating frontend interfaces with scalable backend services.
-
-Impact:
-- Delivered applications used to streamline daily operations and reduce manual processes.
-- Built reusable architectures for rapidly developing business-focused solutions.
+A collection of internal business applications including **ERP systems, KPI dashboards, workflow automation tools, and data-driven management platforms**.
 
 Stack:
 `React` `Django` `REST APIs` `PostgreSQL`
