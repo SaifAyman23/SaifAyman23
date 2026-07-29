@@ -1,8 +1,24 @@
-# About Me
+<h1 align="center">Saif Eldin Ayman Mohammed</h1>
 
-I’m **Saif Eldin Ayman** — a **Full-Stack Software Engineer** and Computer Science graduate focused on building scalable, production-ready applications.
 
-I specialize in **backend development with strong frontend capabilities**, building complete systems from architecture and APIs to responsive user interfaces.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend-first+Engineer;Django+%7C+React+%7C+TypeScript;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,react,ts,tailwind,postgres,redis,docker,git,github,firebase,figma,vscode" />
+</p>
+
+```bash
+$ whoami
+
+Name        : Saif Eldin Ayman
+Role        : Full-Stack Software Engineer
+Backend     : Django • DRF • Celery • PostgreSQL
+Frontend    : React • TypeScript • Tailwind
+Interests   : System Design • Distributed Systems • SaaS
+Location    : Egypt
+```
 
 ## Engineering Focus
 
@@ -10,15 +26,6 @@ I specialize in **backend development with strong frontend capabilities**, build
 - Frontend development using **React**, **TypeScript**, **Tailwind CSS**, and modern state management tools to create fast, responsive, and maintainable interfaces.
 - Designing complete application workflows, including API integrations, dashboards, real-time features, and complex business logic.
 - Building systems with clean architecture, performance optimization, and long-term maintainability in mind.
-
-## What I've Built
-
-- Data-driven **KPI dashboards** with interactive charts and analytics.
-- Real-time applications using **WebSockets** for communication, notifications, and live updates.
-- SaaS platforms with authentication, subscriptions, user dashboards, and role-based permissions.
-- E-commerce and service platforms with scalable backend systems.
-- Streaming platforms with advanced workflows, permissions, and integrations.
-- Applications that include AI-powered features such as recommendations and intelligent automation.
 
 ## Featured Projects
 
@@ -54,47 +61,6 @@ Stack:
 `React` `Django` `REST APIs` `PostgreSQL`
 
 
-## Socials
+## Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-eldin-ayman-a2330b294/)
-
-
-# Tech Stack
-
-## Frontend
-
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-black.svg?style=for-the-badge)
-![Apache ECharts](https://img.shields.io/badge/Apache%20ECharts-AA344D.svg?style=for-the-badge&logo=apacheecharts&logoColor=white)
-
-
-## Backend
-
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-
-## Database & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## Tools & Other Technologies
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
+[![Saif's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saifayman23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
