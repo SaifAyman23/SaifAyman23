@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend-first+Engineer;Django+%7C+React+%7C+TypeScript;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend-first+Engineer;Django+%7C+React+%7C+TypeScript;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
