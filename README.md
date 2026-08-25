@@ -1,20 +1,5 @@
 <div style="display:flex; justify-content:center; align-items:center;">
-
-  <div style="display:flex; align-items:center; gap:0; margin-right:20px; margin-left: -10px">
-    <img src="./img/s torn 2.webp" alt="S" width="80px" />
-    <img src="./img/a torn 2.webp" alt="A" width="80px" />
-    <img src="./img/i torn 2.webp" alt="I" width="80px" />
-    <img src="./img/f torn 2.webp" alt="F" width="80px" />
-  </div>
-
-  <div style="display:flex; align-items:center; gap:0;">
-    <img src="./img/e torn 1.webp" alt="E" width="80px" />
-    <img src="./img/l torn 1.webp" alt="L" width="80px" />
-    <img src="./img/d torn 1.webp" alt="D" width="80px" />
-    <img src="./img/i torn 3.webp" alt="I" width="80px" />
-    <img src="./img/n torn 1.webp" alt="N" width="80px" />
-  </div>
-
+  <img src="./img/name.webp" alt="N" />
 </div>
 
 
