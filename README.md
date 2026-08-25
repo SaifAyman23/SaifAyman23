@@ -1,5 +1,24 @@
-<h1 align="center">Saif Eldin Ayman Mohammed</h1>
+<div style="display:flex; justify-content:center; align-items:center;">
 
+  <div style="display:flex; align-items:center; gap:0; margin-right:20px; margin-left: -10px">
+    <img src="./img/s torn 2.webp" alt="S" width="80px" />
+    <img src="./img/a torn 2.webp" alt="A" width="80px" />
+    <img src="./img/i torn 2.webp" alt="I" width="80px" />
+    <img src="./img/f torn 2.webp" alt="F" width="80px" />
+  </div>
+
+  <div style="display:flex; align-items:center; gap:0;">
+    <img src="./img/e torn 1.webp" alt="E" width="80px" />
+    <img src="./img/l torn 1.webp" alt="L" width="80px" />
+    <img src="./img/d torn 1.webp" alt="D" width="80px" />
+    <img src="./img/i torn 3.webp" alt="I" width="80px" />
+    <img src="./img/n torn 1.webp" alt="N" width="80px" />
+  </div>
+
+</div>
+
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend-first+Engineer;Django+%7C+React+%7C+TypeScript;Building+Scalable+Systems" />
