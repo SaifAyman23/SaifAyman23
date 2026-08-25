@@ -1,7 +1,8 @@
-<div style="display:flex; justify-content:center; align-items:center;">
-  <img src="./img/name.webp" alt="N" />
-</div>
-
+<a href="https://saifayman23.github.io/portfolio/" target="_blank">
+  <div style="display:flex; justify-content:center; align-items:center;">
+    <img src="./img/name.webp" alt="N" />
+  </div>
+</a>
 
 ---
 
